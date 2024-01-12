@@ -1,0 +1,14 @@
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\bin\Debug\net8.0\MoneyConversion.exe
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\bin\Debug\net8.0\MoneyConversion.deps.json
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\bin\Debug\net8.0\MoneyConversion.runtimeconfig.json
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\bin\Debug\net8.0\MoneyConversion.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\bin\Debug\net8.0\MoneyConversion.pdb
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\MoneyConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\MoneyConversion.AssemblyInfoInputs.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\MoneyConversion.AssemblyInfo.cs
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\MoneyConversion.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\MoneyConversion.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\refint\MoneyConversion.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\MoneyConversion.pdb
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\MoneyConversion.genruntimeconfig.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\MoneyConversion\MoneyConversion\obj\Debug\net8.0\ref\MoneyConversion.dll

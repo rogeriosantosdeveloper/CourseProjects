@@ -1,0 +1,14 @@
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\bin\Debug\net8.0\Rent.exe
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\bin\Debug\net8.0\Rent.deps.json
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\bin\Debug\net8.0\Rent.runtimeconfig.json
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\bin\Debug\net8.0\Rent.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\bin\Debug\net8.0\Rent.pdb
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\Rent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\Rent.AssemblyInfoInputs.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\Rent.AssemblyInfo.cs
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\Rent.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\Rent.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\refint\Rent.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\Rent.pdb
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\Rent.genruntimeconfig.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\PROGRAMMING\Rent\Rent\obj\Debug\net8.0\ref\Rent.dll

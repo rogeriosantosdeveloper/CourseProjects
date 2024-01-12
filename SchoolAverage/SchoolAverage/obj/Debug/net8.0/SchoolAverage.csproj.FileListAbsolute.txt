@@ -1,0 +1,14 @@
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\bin\Debug\net8.0\SchoolAverage.exe
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\bin\Debug\net8.0\SchoolAverage.deps.json
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\bin\Debug\net8.0\SchoolAverage.runtimeconfig.json
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\bin\Debug\net8.0\SchoolAverage.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\bin\Debug\net8.0\SchoolAverage.pdb
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\SchoolAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\SchoolAverage.AssemblyInfoInputs.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\SchoolAverage.AssemblyInfo.cs
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\SchoolAverage.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\SchoolAverage.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\refint\SchoolAverage.dll
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\SchoolAverage.pdb
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\SchoolAverage.genruntimeconfig.cache
+C:\Users\Rogerio\Documents\PROGRAMMING\SchoolAverage\SchoolAverage\obj\Debug\net8.0\ref\SchoolAverage.dll
