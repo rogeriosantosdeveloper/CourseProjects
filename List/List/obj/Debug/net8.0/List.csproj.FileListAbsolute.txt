@@ -1,0 +1,15 @@
+D:\Course Pushed\CourseProjects\List\List\bin\Debug\net8.0\List.exe
+D:\Course Pushed\CourseProjects\List\List\bin\Debug\net8.0\List.deps.json
+D:\Course Pushed\CourseProjects\List\List\bin\Debug\net8.0\List.runtimeconfig.json
+D:\Course Pushed\CourseProjects\List\List\bin\Debug\net8.0\List.dll
+D:\Course Pushed\CourseProjects\List\List\bin\Debug\net8.0\List.pdb
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.sourcelink.json
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.dll
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\refint\List.dll
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.pdb
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+D:\Course Pushed\CourseProjects\List\List\obj\Debug\net8.0\ref\List.dll
